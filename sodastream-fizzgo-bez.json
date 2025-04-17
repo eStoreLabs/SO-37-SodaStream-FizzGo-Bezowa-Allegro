@@ -1,0 +1,138 @@
+[
+  {
+    "type": "IMAGE",
+    "image": {
+      "url": "./MOD01.png",
+      "size": "L",
+      "alt": ""
+    }
+  },
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./MOD02.png",
+      "size": "M",
+      "alt": ""
+    },
+    "text": {
+      "content": "<p>Szukasz wielorazowej butelki, która stanie się Twoim niezawodnym kompanem – zarówno podczas codziennych wyzwań, jak i aktywnych, sportowych dni? Poznaj SodaStream Fizz&amp;Go, metalową butelkę termiczną do gazowania wody.</p>\n<p>Jest poręczna, superszczelna i niezwykle wytrzymała – po prostu niezastąpiona. Dodatkowo utrzyma optymalną temperaturę Twojego ciepłego lub zimnego napoju. Zawsze i wszędzie!</p>\n<p><strong>Subtelny beż:</strong> Jasny odcień, który spodoba się fanom naturalnych i nawiązujących do natury barw.</p>\n<p><strong>Ulubiony napój zawsze pod ręką – w dobrym stylu!</strong></p>",
+      "order": "LAST"
+    }
+  },
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./MOD03.png",
+      "size": "M",
+      "alt": ""
+    },
+    "text": {
+      "content": "<h3><strong>SodaStream Fizz&amp;Go: Twój codzienny kompan</strong></h3>\n<p>Poznaj innowacyjne rozwiązanie – butelkę termiczną SodaStream Fizz&amp;Go. To unikalny miks, skupiający w sobie najlepsze funkcjonalności butelki do saturatora, bidonu na wodę i kubka termicznego.</p>\n<p><strong>Praktycznie i stylowo – czy może być lepiej?</strong></p>",
+      "order": "FIRST"
+    }
+  },
+  {
+    "type": "TEXT",
+    "content": "<h3><strong>Sprawdź czym wyróżnia się butelka do gazowania wody SodaStream Fizz&amp;Go</strong></h3>"
+  },
+  {
+    "type": "IMAGE",
+    "image": {
+      "url": "./MOD04.png",
+      "size": "L",
+      "alt": ""
+    }
+  },
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./MOD05.png",
+      "size": "M",
+      "alt": ""
+    },
+    "text": {
+      "content": "<h3><strong>Butelka termiczna do gazowania wody, subtelny beż</strong></h3>\n<p>Żyj pełnią życia i rób to, co kochasz – a butelka termiczna SodaStream Fizz&amp;Go zadba o Twoje nawodnienie! Jako praktyczny gadżet łączy funkcjonalność i stylowy design. Wytrzyma też wiele lat intensywnego użytkowania bez przeciekania. A dodatkowo podtrzyma optymalną temperaturę zimnych i ciepłych napojów*.</p>",
+      "order": "LAST"
+    }
+  },
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./MOD06.png",
+      "size": "M",
+      "alt": ""
+    },
+    "text": {
+      "content": "<p><strong>Optymalna temperatura napoju:</strong> Specjalnie opracowana konstrukcja z podwójnymi ściankami i izolacją próżniową utrzymuje chłód i ciepło Twoich napojów.</p>\n<p><strong>Orzeźwienie przez cały dzień:</strong> Twój ulubiony, zimny napój będzie idealnie schłodzony aż do 12 godzin.</p>\n<p><strong>Lata intensywnego użytkowania:</strong> Dzięki wysokiej jakości materiałom butelka zachowa swoją funkcjonalność przez długi czas. Stanowi wygodną alternatywę dla jednorazowych butelek i puszek.</p>\n<p><strong>*UWAGA!</strong> Nie nasycaj gazem wody o temperaturze powyżej 45°C. Zachowaj szczególną ostrożność podczas przechowywania gorących płynów w butelce i otwierania butelki zawierającej gorące płyny.</p>",
+      "order": "FIRST"
+    }
+  },
+  {
+    "type": "IMAGE",
+    "image": {
+      "url": "./MOD07.png",
+      "size": "L",
+      "alt": ""
+    }
+  },
+  {
+    "type": "IMAGE",
+    "image": {
+      "url": "./MOD08.png",
+      "size": "L",
+      "alt": ""
+    }
+  },
+  {
+    "type": "TEXT",
+    "content": "<ol>\n  <li>Wlej wodę do butelki SodaStream Fizz&amp;Go 0,9 l, a później zamontuj bidon w saturatorze SodaStream.</li>\n  <li>Kilka razy wciśnij przycisk gazowania, aby uzyskać odpowiednią ilość bąbelków.</li>\n  <li>Jeśli masz ochotę na napój gazowany, dodaj do wody ulubiony syrop SodaStream.</li>\n</ol>"
+  },
+  {
+    "type": "IMAGE",
+    "image": {
+      "url": "./MOD09.png",
+      "size": "L",
+      "alt": ""
+    }
+  },
+  {
+    "type": "TEXT",
+    "content": "<p><strong>Do jakich saturatorów pasują butelki SodaStream Fizz&amp;Go?</strong><br>\nW butelce SodaStream Fizz&amp;Go 0,9 l możesz nagazować wodę w saturatorach SodaStream Art, Terra, Duo i Ensō.</p>\n<p><strong>Czy butelka termiczna SodaStream Fizz&amp;Go pasuje do uchwytu samochodowego?</strong><br>\nMetalowa butelka wielorazowa SodaStream Fizz&amp;Go jest zaprojektowana tak, aby zmieścić się w uchwycie samochodowym. Jest więc świetną alternatywą dla kubków termicznych. Dzięki składanej rączce i hermetycznej konstrukcji możesz bez obaw wrzucić ją też do plecaka czy torby.</p>\n<p><strong>Jakie napoje można wlać do butelki SodaStream Fizz&amp;Go?</strong><br>\nTa wielorazowa butelka termiczna podtrzymuje temperaturę zarówno zimnych, jak i ciepłych napojów. Możesz wygodnie transportować w niej napoje gazowane i te bez bąbelków.</p>"
+  },
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./MOD10.png",
+      "size": "M",
+      "alt": ""
+    },
+    "text": {
+      "content": "<h3><strong>Praktycznie, stylowo, na lata</strong></h3>\n<p><strong>Towarzysz na co dzień –</strong> praca lub szkoła, zajęcia sportowe, spacer, zakupy... Z butelką SodaStream Fizz&amp;Go zadbasz o nawodnienie od rana do wieczora.</p>\n<p><strong>Kompan w podróży –</strong> piesze wycieczki, zwiedzanie, relaks... Z nieprzeciekającą butelką SodaStream Fizz&amp;Go będziesz mieć ulubiony napój zawsze przy sobie.</p>",
+      "order": "LAST"
+    }
+  },
+  {
+    "type": "IMAGE_WITH_TEXT",
+    "image": {
+      "url": "./MOD11.png",
+      "size": "M",
+      "alt": ""
+    },
+    "text": {
+      "content": "<p><strong>Butelka do auta –</strong> krótka lub długa trasa samochodem... Z wygodną butelką SodaStream Fizz&amp;Go będziesz mieć ulubiony napój pod ręką, możesz umieścić ją w uchwycie auta.</p>\n<p><strong>Stylowy gadżet –</strong> beżowy kolor i nowoczesna forma... Z designerską butelką SodaStream Fizz&amp;Go podkreślisz swój styl.</p>\n<p><strong>Pomysł na prezent –</strong> funkcjonalność, styl, eko nawyki... Z wielorazową butelką SodaStream Fizz&amp;Go podarujesz bliskiej osobie coś więcej, niż praktyczny przedmiot.</p>",
+      "order": "FIRST"
+    }
+  },
+  {
+    "type": "TEXT",
+    "content": "<h3><strong>Kreuj smaki i bądź sobą na co dzień</strong></h3>\n<p>Jak dodatkowo wzbogacić doświadczenie kreowania bąbelków SodaStream? Dodaj do wody gazowanej syrop smakowy. Sprawdź, co na Ciebie czeka!</p>\n<p><strong>Znane i lubiane klasyki:</strong> Przygotuj w domu klasyczne napoje gazowane, takie jak Pepsi, 7UP, Mirinda czy Lipton Ice Tea Green.</p>\n<p><strong>Gazowane napoje owocowe:</strong> Przygotuj w domu orzeźwiające lemoniady lub zaskakujące napoje na bazie owocowych syropów np. Owoców Leśnych lub Marakui.</p>\n<p><strong>Wyjątkowe koktajle i moktajle:</strong> Przygotuj w domu wyrafinowane drinki i moktajle na bazie syropów SodaStream Crafted.</p>"
+  },
+  {
+    "type": "IMAGE",
+    "image": {
+      "url": "./MOD12.png",
+      "size": "L",
+      "alt": ""
+    }
+  }
+]
